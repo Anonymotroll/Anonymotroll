@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vitor Meireles | Software Engineer & Data Analyst
+# 👩🏻‍💻 Vitor Meireles | Engenheiro de Software e Analista de Dados
 
 ### 🛠️ Sobre Mim
 Prazer, sou Vitor!
